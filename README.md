@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there My Name is Ahmed Alwadyani, i am a Software Engineer Student at University of Bahrain👋
+- 🌱 I’m currently learning a Full-stack Web Development, and Software Project Course
+- 📫 How to reach me: a.alwadyani3@gmail.com or you can follow me on intagram @a.alw33
+- ⚡ Fun fact: I am a 6th year student in this field and this is my first year to use Github
+- 💬 Ask me about: Java, Algorithems, Designing or even why I am too late to graduate
 <!--
 **Alwadyani/Alwadyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
